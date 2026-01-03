@@ -8,7 +8,7 @@ The objective of this task was to understand the dataset, assess data quality is
 ApexPlanet-Data-Analytics-Internship
 │
 ├── data/
-│   ├── rawdata.xlsx
+│   ├── Online Retail Dataset.xlsx
 │   └── cleaned_online_retail.xlsx
 │
 ├── code/
