@@ -48,7 +48,7 @@ The queries include:
 
  📈 Dashboard (Power BI)
 An interactive Power BI dashboard was created to visualize insights, including:
- Key KPIs:
+ Key KPIs :
 - Total Revenue
 - Total Transactions
 - Average Order Value
